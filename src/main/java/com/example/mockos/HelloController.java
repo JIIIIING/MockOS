@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("用来测试的代码+这是一个修改痕迹");
+        welcomeText.setText("用来测试的代码+这是一个修改痕迹+来自hjjjjjjjjhhhhhhhhhhhhhhh");
     }
 }
